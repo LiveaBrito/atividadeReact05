@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Estudante estudanteAutenticado={true}/>
+      <Estudante estudanteAutenticado={false}/>
     </>
   )
 }
